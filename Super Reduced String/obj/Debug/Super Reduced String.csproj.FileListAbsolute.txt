@@ -1,0 +1,7 @@
+C:\Users\Akram\Desktop\courses\HackerRank\Day10\Super Reduced String\bin\Debug\Super Reduced String.exe.config
+C:\Users\Akram\Desktop\courses\HackerRank\Day10\Super Reduced String\bin\Debug\Super Reduced String.exe
+C:\Users\Akram\Desktop\courses\HackerRank\Day10\Super Reduced String\bin\Debug\Super Reduced String.pdb
+C:\Users\Akram\Desktop\courses\HackerRank\Day10\Super Reduced String\obj\Debug\Super Reduced String.csprojAssemblyReference.cache
+C:\Users\Akram\Desktop\courses\HackerRank\Day10\Super Reduced String\obj\Debug\Super Reduced String.csproj.CoreCompileInputs.cache
+C:\Users\Akram\Desktop\courses\HackerRank\Day10\Super Reduced String\obj\Debug\Super Reduced String.exe
+C:\Users\Akram\Desktop\courses\HackerRank\Day10\Super Reduced String\obj\Debug\Super Reduced String.pdb
